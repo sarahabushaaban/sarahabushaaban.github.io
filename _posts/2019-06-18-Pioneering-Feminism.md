@@ -1,1 +1,4 @@
-
+The Nursing Sisters were also trailblazers, in that they were the first group of women allowed to vote in a Canadian federal election. This came after years of activism, which included efforts of peaceful protest, such as Nellie McClung -  one of Canada's most acclaimed feminist activists - orchestrating a satirical play that reversed the roles of men and women in Winnipeg. 
+Here, you can see a photograph of the historic moment a group of nurses were allowed to vote for the very first time. The caption and photo were retrieved from the [Elections Canada website](https://www.elections.ca/content.aspx?section=res&dir=his&document=chap2&lang=e).
+![First Vote](https://github.com/sarahabushaaban/sarahabushaaban.github.io/blob/master/First-Female-Vote.jpg?raw=true)
+<sub>Given the time difference between Europe and Canada, these Canadian military nurses (the "Bluebirds"), photographed at a polling station set up at a Canadian field hospital in France in December 1917, probably voted before women in Canada. If so, they were among the first Canadian women to vote in a dominion election.</sub
